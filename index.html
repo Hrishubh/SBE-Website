@@ -22,12 +22,14 @@
         animation-iteration-count: 1;
         animation-fill-mode: forwards;
     }
+
     @keyframes fadeInAnimation {
         0% {
-        opacity: 0;
+            opacity: 0;
         }
+
         100% {
-        opacity: 1;
+            opacity: 1;
         }
     }
 </style>
@@ -82,8 +84,10 @@
         <br><br><br><br><br>
         <div class="event-list">
             <h2 class="home-2-h2">EVENTS</h2>
-            <h3 class="home-2-h3"><a href="Events/event-1.html" class="underline"> Kalamkaar - The Literature Event</a></h3>
-            <h3 class="home-2-h3"><a href="Events/event-2.html" class="underline"> Pixelllence - Photography Event</a></h3>
+            <h3 class="home-2-h3"><a href="Events/event-1.html" class="underline"> Kalamkaar - The Literature Event</a>
+            </h3>
+            <h3 class="home-2-h3"><a href="Events/event-2.html" class="underline"> Pixelllence - Photography Event</a>
+            </h3>
             <h3 class="home-2-h3"><a href="Events/event-3.html" class="underline"> Malhar - The Musical combat </a></h3>
             <h3 class="home-2-h3"><a href="Events/event-4.html" class="underline"> Chitrakala - Art Event </a></h3>
             <h3 class="home-2-h3"><a href="Events/event-5.html" class="underline"> StageCraft - Drama Event </a></h3>
@@ -123,8 +127,10 @@
         professors or the institute.</h4>
 
     <script>
-        document.body.style.zoom = (window.innerWidth / window.outerWidth);
-        document.body.style.zoom = 1;
+        var scale = 'scale(1)';
+        document.body.style.webkitTransform = scale;    // Chrome, Opera, Safari
+        document.body.style.msTransform = scale;       // IE 9
+        document.body.style.transform = scale;     // General
     </script>
 </body>
 
