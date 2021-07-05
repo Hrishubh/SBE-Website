@@ -16,23 +16,6 @@
     <script src="Resources/JS/timer.js"></script>
     <script src="Resources/JS/fadein.js"></script>
 </head>
-<style>
-    body {
-        animation: fadeInAnimation ease 2.5s;
-        animation-iteration-count: 1;
-        animation-fill-mode: forwards;
-    }
-
-    @keyframes fadeInAnimation {
-        0% {
-            opacity: 0;
-        }
-
-        100% {
-            opacity: 1;
-        }
-    }
-</style>
 
 <body class="home-body">
     <div class="home-div1">
@@ -59,13 +42,13 @@
 
     <br><br><br><br><br><br>
     <a class="icon-insta" href="https://www.instagram.com/">
-        <img class="icon" src="Resources/Images/instagram.png" alt="Instagram">
+        <img class="icon" src="resources/images/instagram.png" alt="Instagram">
     </a>
     <a class="icon-gmail" href="https://www.instagram.com/">
-        <img src="Resources/Images/gmail.png" alt="Gmail">
+        <img src="resources/images/gmail.png" alt="Gmail">
     </a>
     <a class="icon-discord" href="https://www.instagram.com/">
-        <img src="Resources/Images/discord.png" alt="Discord">
+        <img src="resources/images/discord.png" alt="Discord">
     </a>
     </div>
 
@@ -84,10 +67,8 @@
         <br><br><br><br><br>
         <div class="event-list">
             <h2 class="home-2-h2">EVENTS</h2>
-            <h3 class="home-2-h3"><a href="Events/event-1.html" class="underline"> Kalamkaar - The Literature Event</a>
-            </h3>
-            <h3 class="home-2-h3"><a href="Events/event-2.html" class="underline"> Pixelllence - Photography Event</a>
-            </h3>
+            <h3 class="home-2-h3"><a href="Events/event-1.html" class="underline"> Kalamkaar - The Literature Event</a></h3>
+            <h3 class="home-2-h3"><a href="Events/event-2.html" class="underline"> Pixelllence - Photography Event</a></h3>
             <h3 class="home-2-h3"><a href="Events/event-3.html" class="underline"> Malhar - The Musical combat </a></h3>
             <h3 class="home-2-h3"><a href="Events/event-4.html" class="underline"> Chitrakala - Art Event </a></h3>
             <h3 class="home-2-h3"><a href="Events/event-5.html" class="underline"> StageCraft - Drama Event </a></h3>
@@ -125,6 +106,10 @@
     <h3 class="disclaimer">DISCLAIMER</h3>
     <h4 class="disclaimer-content">All views shared here are that of the student body of IIITV-ICD, and not of the
         professors or the institute.</h4>
+
+        <script>
+            document.body.style.zoom = (window.innerWidth / window.outerWidth)
+        </script>
 </body>
 
 </html>
