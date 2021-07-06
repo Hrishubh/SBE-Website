@@ -425,7 +425,7 @@ li.swipe-animation a:hover:before {
   grid-template-rows: 150px 150px;
   grid-template-columns: 300px 300px 500px;
   row-gap: 40px;
-  column-gap: 60px;
+  column-gap: 40px;
   height: 500px;
 }
 .flex1 {
@@ -434,7 +434,7 @@ li.swipe-animation a:hover:before {
   flex-wrap: wrap;
   grid-template-rows: 150px 150px 150px;
   grid-template-columns: 200px 200px 200px 500px;
-  column-gap: 60px;
+  column-gap: 40px;
   height: 530px;
 }
 .flex-reverse {
@@ -510,6 +510,11 @@ nav a {
   padding: 20px 100px;
   margin: 30px;
 }
+.container-teams {
+  justify-content: center;
+  padding: 20px 50px;
+  margin: 30px;
+}
 .footer {
   margin-left: 50px;
   display: grid;
@@ -519,10 +524,12 @@ nav a {
   column-gap: 35px;
 }
 .footer-content1 {
-  padding-left: 70px;
+  padding-left: 100px;
+  padding-top: 20px;
 }
 .footer-content2 {
   padding-left: 100px;
+  padding-top: 20px;
 }
 .footer-content3 {
   padding-top: 40px;
@@ -559,7 +566,7 @@ nav a {
 }
 .members1 {
   display: grid;
-  grid-template-columns: 50% 60%;
+  grid-template-columns: 40% 60%;
 }
 .members1_special {
   font-family: "Poppins", "Courier New", Courier, monospace;
@@ -570,10 +577,10 @@ nav a {
   text-align: center;
 }
 .members-img {
-  padding-top: 7px;
-  padding-left: 50px;
+  margin-top: -10px;
+  padding-left: 40px;
   justify-self: center;
-  align-self: center;
+  align-self: cent
 }
 .members-name {
   font-family: "Poppins", "Courier New", Courier, monospace;
@@ -612,6 +619,7 @@ nav a {
   font-family: "Quicksand", Courier, monospace;
   text-align: center;
 }
+
 @media (max-width: 1230px) {
   div p span.size {
     display: none;
