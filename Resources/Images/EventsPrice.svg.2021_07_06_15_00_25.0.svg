@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120mm"
+   height="100mm"
+   viewBox="0 0 120 100"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="EventsPrice.svg.2021_07_06_15_00_25.0.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1145">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1;"
+         offset="0"
+         id="stop1141" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:0;"
+         offset="1"
+         id="stop1143" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1113">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1;"
+         offset="0"
+         id="stop1109" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:0;"
+         offset="1"
+         id="stop1111" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1107">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1;"
+         offset="0"
+         id="stop1103" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:0;"
+         offset="1"
+         id="stop1105" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1091">
+      <stop
+         style="stop-color:#ff33d8;stop-opacity:1;"
+         offset="0"
+         id="stop1087" />
+      <stop
+         style="stop-color:#ff33d8;stop-opacity:0;"
+         offset="1"
+         id="stop1089" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient943">
+      <stop
+         style="stop-color:#800080;stop-opacity:1"
+         offset="0"
+         id="stop939" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="1"
+         id="stop941" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient935">
+      <stop
+         style="stop-color:#800080;stop-opacity:1"
+         offset="0"
+         id="stop931" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="1"
+         id="stop933" />
+    </linearGradient>
+    <rect
+       x="91.470238"
+       y="77.863098"
+       width="91.092262"
+       height="96.005951"
+       id="rect841" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect835" />
+    <rect
+       x="91.470238"
+       y="77.863098"
+       width="91.092262"
+       height="96.005951"
+       id="rect841-7" />
+    <rect
+       x="91.470238"
+       y="77.863098"
+       width="91.092262"
+       height="96.005951"
+       id="rect854" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect835-3" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect890" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient943"
+       id="linearGradient945"
+       x1="110.02752"
+       y1="80.933907"
+       x2="109.3361"
+       y2="103.23215"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect835-4" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect956" />
+    <rect
+       x="91.470238"
+       y="77.863098"
+       width="91.092262"
+       height="96.005951"
+       id="rect841-76" />
+    <rect
+       x="91.470238"
+       y="77.863098"
+       width="91.092262"
+       height="96.005951"
+       id="rect996" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient935"
+       id="linearGradient1036"
+       gradientUnits="userSpaceOnUse"
+       x1="101.96819"
+       y1="80.86393"
+       x2="102.10622"
+       y2="99.220909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient935"
+       id="linearGradient1428"
+       gradientUnits="userSpaceOnUse"
+       x1="101.96819"
+       y1="80.86393"
+       x2="102.10622"
+       y2="99.220909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1091"
+       id="linearGradient1093"
+       x1="209.80658"
+       y1="42.896759"
+       x2="206.19844"
+       y2="61.204723"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4143543,0,0,1.4143543,-121.85613,-44.083093)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1107"
+       id="linearGradient1101"
+       x1="115.80184"
+       y1="81.460442"
+       x2="115.80184"
+       y2="98.263504"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1113"
+       id="linearGradient1115"
+       x1="107.38541"
+       y1="82.157341"
+       x2="106.79237"
+       y2="94.611374"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1145"
+       id="linearGradient1147"
+       x1="121.37968"
+       y1="81.150795"
+       x2="120.63696"
+       y2="97.738113"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect835-9" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect1158" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect835-3-0" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect1194" />
+    <rect
+       x="50.648811"
+       y="68.413689"
+       width="63.122025"
+       height="74.083336"
+       id="rect1225" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-11.86716"
+     inkscape:cy="255.24483"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1392"
+       transform="matrix(1.2634764,0,0,1.2634764,-126.55218,8.5313879)">
+      <text
+         xml:space="preserve"
+         id="text839"
+         style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect841);fill:url(#linearGradient1115);fill-opacity:1;"
+         transform="matrix(1.5154248,0,0,1.5154248,-11.511251,-120.53389)"><tspan
+           x="91.470703"
+           y="88.458035"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient1115);fill-opacity:1">EVENTS</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text839-0"
+         style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect841-7);fill:url(#linearGradient1147);fill-opacity:1;"
+         transform="matrix(0.76344251,0,0,0.76344251,58.970453,-42.908756)"><tspan
+           x="91.470703"
+           y="88.458035"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient1147);fill-opacity:1">PRIZES WORTH</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text839-09"
+         style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect841-76);fill:url(#linearGradient1101);fill-opacity:1;"
+         transform="matrix(0.95611018,0,0,0.95611018,50.791677,-25.192437)"><tspan
+           x="91.470703"
+           y="88.458035"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient1101);fill-opacity:1">DAYS OF FUN</tspan></tspan></text>
+      <g
+         id="g1290"
+         transform="translate(-3.7797619,-1.4174107)">
+        <circle
+           style="opacity:0.280749;fill:#f700ff;fill-opacity:1;stroke:none;stroke-width:0.243888"
+           id="path1041"
+           cx="123.17547"
+           cy="11.753542"
+           r="14.053675" />
+        <text
+           xml:space="preserve"
+           id="text833"
+           style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect835);fill:#f4d7ee;fill-opacity:1;"
+           transform="matrix(2.5890746,0,0,2.5890746,-13.215627,-180.98036)"><tspan
+             x="50.648438"
+             y="79.008816"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#f4d7ee;fill-opacity:1">7</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text833-0"
+           style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect835-9);fill:#ff00ff;fill-opacity:1;"
+           transform="matrix(2.5890746,0,0,2.5890746,-14.116783,-180.92113)"><tspan
+             x="50.648438"
+             y="79.008816"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#ff00ff;fill-opacity:1">7</tspan></tspan></text>
+      </g>
+      <g
+         id="g1304"
+         transform="translate(4.5382097,3.4852486)">
+        <text
+           xml:space="preserve"
+           id="text833-4-5"
+           style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect835-3-0);fill:#ff00ff;fill-opacity:1;"
+           transform="matrix(1.8518175,0,0,1.8518175,57.415286,-104.77564)"><tspan
+             x="50.648438"
+             y="79.008816"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#ff00ff;fill-opacity:1">20k</tspan></tspan></text>
+        <g
+           id="g1295">
+          <circle
+             style="opacity:0.588235;mix-blend-mode:normal;fill:url(#linearGradient1093);fill-opacity:1;stroke:none;stroke-width:0.336647"
+             id="path1041-8-3"
+             cx="167.26816"
+             cy="33.300152"
+             r="19.398798" />
+          <text
+             xml:space="preserve"
+             id="text833-4"
+             style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect835-3);fill:#ffffff;fill-opacity:1;"
+             transform="matrix(1.8518175,0,0,1.8518175,56.617406,-104.99308)"><tspan
+               x="50.648438"
+               y="79.008816"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#ffffff;fill-opacity:1">20k</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g1282"
+         transform="matrix(1.1975914,0,0,1.1975914,-27.50318,-2.0483594)">
+        <circle
+           style="opacity:0.280749;fill:#d000d6;fill-opacity:1;stroke:none;stroke-width:0.281684"
+           id="path1041-8"
+           cx="130.1398"
+           cy="43.438282"
+           r="16.231647" />
+        <text
+           xml:space="preserve"
+           id="text833-2"
+           style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect835-4);fill:#ffffff;fill-opacity:1;"
+           transform="matrix(2.2557221,0,0,2.2557221,9.9588055,-125.20211)"><tspan
+             x="50.648438"
+             y="79.008816"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#ffffff">5</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text1223"
+           style="font-size:10.5833px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;white-space:pre;shape-inside:url(#rect1225);fill:#ff00ff;fill-opacity:1;"
+           transform="matrix(2.2557221,0,0,2.2557221,9.0213686,-125.0131)"><tspan
+             x="50.648438"
+             y="79.008816"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#ff00ff">5</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

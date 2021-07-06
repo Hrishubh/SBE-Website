@@ -20,6 +20,10 @@ body {
   opacity: 1;
   }
 }
+.container-teams {
+  border-bottom: #fff solid ;
+  opacity: 0.8;
+}
 html {
   margin: 0;
   color: white;
@@ -31,7 +35,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-.event_page {
+hr {
+  display: block;
+}
+.event_page, .team_page {
   background-image: none;
 }
 .event-body {
@@ -39,7 +46,7 @@ html {
   color: white;
   font-size: 18px;
   width: 100%;
-  background: url(../Images/Event_Final.png) no-repeat center fixed;
+  background: url(../Images/Event_Final.png) no-repeat center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -178,6 +185,7 @@ nav a:hover {
 }
 .event-list {
   padding: 0px;
+  line-height-step: 50px;
 }
 .event-body h2 {
   font-family: "Cagliostro", Courier, monospace;
@@ -213,21 +221,14 @@ nav a:hover {
 .icon-gmail {
   position: absolute;
   width: 48;
-  left: 86.5%;
-  top: 90%;
-}
-.icon-discord {
-  position: absolute;
-  width: 48;
-  left: 81.3%;
+  left: 79.5%;
   top: 90%;
 }
 .icon-insta {
   position: absolute;
   width: 48;
-  left: 91.7%;
+  left: 84.7%;
   top: 90%;
-  transform: rotateZ(20);
 }
 .home-2-p {
   margin-block-start: 0%;
@@ -262,17 +263,18 @@ nav a:hover {
   padding-top: 5%;
   font-family: "Josefin Sans", Courier, monospace;
   padding-left: 100px;
+  padding-bottom: 20px;
   text-decoration: none;
   color: #f89494;
-  font-size: 50px;
+  font-size: 60px;
 }
 .home-2-h3 {
   font-family: "Poppins";
   font-weight: 300;
   text-decoration: none;
   padding-left: 100px;
-  line-height: 1.5em;
-  font-size: 25px;
+  line-height: 2em;
+  font-size: 30px;
 }
 .underline {
   padding: 0px 0px;
@@ -286,7 +288,7 @@ nav a:hover {
 }
 .home-2-h3 a:hover {
   color: #ffbebe;
-  font-size: 1.05em;
+  font-size: 1.2em;
 }
 .underline::before {
   content: "";
@@ -519,43 +521,56 @@ nav a {
   margin-left: 50px;
   display: grid;
   padding-top: 465px;
-  height: 100px;
-  grid-template-columns: 150px 370px 220px 550px;
+  grid-template-columns: 270px 350px 200px 550px;
+  grid-template-rows: auto;
   column-gap: 35px;
 }
 .footer-content1 {
   padding-left: 100px;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 .footer-content2 {
-  padding-left: 100px;
-  padding-top: 20px;
+  padding-left: 40px;
+  padding-top: 40px;
 }
 .footer-content3 {
   padding-top: 40px;
+  margin-left: -55px;
 }
 .footer-heading {
   padding-left: 10px;
   font-family: "Poppins";
   font-weight: 400px;
   font-size: 26px;
+  padding-bottom: 20px;
   color: #f89494;
 }
+
 .footer-h4 {
   padding-left: 10px;
   font-family: "Poppins", Courier, monospace;
   font-weight: 300;
+  padding-bottom: 10px;
 }
 .footer-logo {
-  width: 230px;
+  width: 200px;
 }
 .footer-name {
   padding-left: 10px;
+  color: #f89494;
   padding-right: 120px;
-  padding-top: 35px;
+  padding-top: 37px;
   font-family: "Poppins", Courier, monospace;
   font-weight: 300;
   font-size: 24px;
+}
+.footer-name2 {
+  padding-left: 10px;
+  padding-right: 120px;
+  padding-top: 15px;
+  font-family: "Poppins", Courier, monospace;
+  font-weight: 300;
+  font-size: 20px;
 }
 .footer div {
   height: 100px;
@@ -577,7 +592,6 @@ nav a {
   text-align: center;
 }
 .members-img {
-  margin-top: -10px;
   padding-left: 40px;
   justify-self: center;
   align-self: cent

@@ -17,7 +17,7 @@ var x = setInterval(function() {
 
   // Display the result in the element with id="timer"
   document.getElementById("timer").innerHTML = days + " days " + hours + " hours "
-  + minutes + " min " + seconds + " sec";
+  + minutes + " min " + seconds + " sec  left !";
 
   // If the count down is finished, write some text
   if (distance < 0) {
