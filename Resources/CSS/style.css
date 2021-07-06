@@ -219,16 +219,17 @@ nav a:hover {
   align-self: center;
 }
 .icon-gmail {
-  position: absolute;
+  position: relative;
   width: 48;
   left: 79.5%;
-  top: 90%;
 }
 .icon-insta {
-  position: absolute;
+  position: relative;
   width: 48;
-  left: 84.7%;
-  top: 90%;
+  left: 88.7%;
+}
+a {
+  text-decoration: none;
 }
 .home-2-p {
   margin-block-start: 0%;
