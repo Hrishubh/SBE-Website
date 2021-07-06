@@ -618,6 +618,7 @@ nav a {
   color: white;
   font-family: "Quicksand", Courier, monospace;
   text-align: center;
+  padding-bottom: 30px;
 }
 
 @media (max-width: 1230px) {
