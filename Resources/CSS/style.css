@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 html {
   width: 1320px;
@@ -28,6 +30,9 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+.event_page {
+  background-image: none;
 }
 .event-body {
   margin: 0;
@@ -58,10 +63,10 @@ html {
   height: 770px;
 }
 .event-body-div {
-  height: 753px;
+  height: 685px;
   position: relative;
   display: grid;
-  grid-template-rows: 110px 150px 1fr;
+  grid-template-rows: 110px 210px 1fr;
 }
 .team-body-div {
   position: relative;
@@ -152,7 +157,7 @@ nav a:hover {
   font-weight: 700;
   justify-self: center;
   align-self: flex-end;
-  height: 50px;
+  height: 90px;
   font-size: 64px;
   color: #f89494;
 }
@@ -172,7 +177,7 @@ nav a:hover {
   text-decoration: none;
 }
 .event-list {
-  padding-left: 50px;
+  padding: 0px;
 }
 .event-body h2 {
   font-family: "Cagliostro", Courier, monospace;
@@ -337,6 +342,7 @@ li a:hover {
 li.cont-li {
   margin: 0 auto;
   padding: 10px 10px;
+  font-size: smaller;
 }
 li.cont-li a {
   color: #ffffff;
