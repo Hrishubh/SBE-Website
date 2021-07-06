@@ -220,16 +220,15 @@ nav a:hover {
 }
 .icon-gmail {
   position: relative;
+  text-decoration: none;
   width: 48;
   left: 79.5%;
 }
 .icon-insta {
   position: relative;
+  text-decoration: none;
   width: 48;
   left: 88.7%;
-}
-a {
-  text-decoration: none;
 }
 .home-2-p {
   margin-block-start: 0%;
