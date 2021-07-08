@@ -3,9 +3,6 @@
   margin: 0;
   padding: 0;
 }
-
-img{-webkit-user-drag: none;}
-
 html {
   width: 1320px;
   overflow-x: hidden;
