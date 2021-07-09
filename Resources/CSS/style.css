@@ -161,7 +161,7 @@ nav a:hover {
   font-family: "Poppins", Courier, monospace;
   font-weight: 700;
   height: 90px;
-  font-size: 64px;
+  font-size: 55px;
   justify-self: center;
   text-align: center;
   color: #f89494;
@@ -197,7 +197,7 @@ nav a:hover {
   font-family: "Cagliostro", Courier, monospace;
   justify-self: center;
   text-align: center;
-  font-size: 30px;
+  font-size: 25px;
 }
 .home-description {
   /* font-family: 'Times New Roman', Times, serif; */
